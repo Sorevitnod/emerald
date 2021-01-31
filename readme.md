@@ -1,3 +1,4 @@
+[![Board Status](https://denisontiveros.visualstudio.com/9b78bb96-4142-4fa7-9eb9-805495d55a0b/a4c4295f-85f9-47f8-ba62-ebbefac9b8b2/_apis/work/boardbadge/d4afe257-3c38-4af0-8115-ada3a17feb32)](https://denisontiveros.visualstudio.com/9b78bb96-4142-4fa7-9eb9-805495d55a0b/_boards/board/t/a4c4295f-85f9-47f8-ba62-ebbefac9b8b2/Microsoft.RequirementCategory)
 ## About
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
